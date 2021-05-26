@@ -2,7 +2,11 @@
 
 ## User Story
 
-* This app generates a list of hour boxes that can be used in order to save to-do items.
+Our users are highly effective people that want to maximize their time on a hourly basis. This Day Planner allows them to store tasks each day and see visual how their day is progressing. 
+
+## Description
+
+This app generates a list of hour boxes using HTML and JQuery that can be used in order to save to-do items.
 
 ## Development
 
@@ -14,6 +18,10 @@
 
 * I was not able to store to-dos to the local storage, but I can do it if given enough time.
 * The local storage syntax doesn't seem impossible so I know I can fix it. 
+
+## Future Development
+
+Hourly boxes would be better if there was a collapsable option that allowed people to write down more tasks. Tasks could be installed that allow users to customize specific tasks instad of simply writing text. A task timer could be installed that notifies a user when a task is almost expired. 
 
 ## GitHub
 
