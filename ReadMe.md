@@ -23,6 +23,10 @@ This app generates a list of hour boxes using HTML and JQuery that can be used i
 
 Hourly boxes would be better if there was a collapsable option that allowed people to write down more tasks. Tasks could be installed that allow users to customize specific tasks instad of simply writing text. A task timer could be installed that notifies a user when a task is almost expired. 
 
+## Gif of APP
+
+
+
 ## GitHub
 
 GitHub: https://github.com/specilaist/dayPlanner
