@@ -25,7 +25,7 @@ Hourly boxes would be better if there was a collapsable option that allowed peop
 
 ## Gif of APP
 
-
+![Gif of App](assets/dayPlanner.gif)
 
 ## GitHub
 
